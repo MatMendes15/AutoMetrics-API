@@ -1,0 +1,18 @@
+﻿# pastas de build .NET
+bin/
+obj/
+
+# configurações do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Git
+.git
+.gitignore
+
+# outros artefatos
+Scripts/
+*.Backup.*
