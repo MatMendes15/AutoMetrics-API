@@ -25,7 +25,8 @@ O sistema garante a manutenção consistente de um catálogo de veículos.
 
 ## 2. Arquitetura
 
-![Diagrama](docs/arquitetura.png)
+![Arquitetura_AWS](https://github.com/user-attachments/assets/176e89f2-45b5-4223-b7d9-9c513a256012)
+
 
 | Camada | Serviço | Descrição |
 |--------|---------|-----------|
