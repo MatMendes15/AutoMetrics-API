@@ -3,8 +3,8 @@
 > CRUD simples + API Gateway + Lambda /report + RDS + CI/CD
 
 **Grupo**:
-1. RA: 10417820 - Mateus Mendes Cabral - API Backend, Banco e CI/CD
-1. RA: 10414699 - Thiago Felipe Garcia - Gateway e função
+1. RA: 10417820 - Mateus Mendes Cabral - API Backend(CRUD Local), RDS, Lambda
+1. RA: 10414699 - Thiago Felipe Garcia - EC2 + Docker, API Gateway, Documentação
 
 ---
 
